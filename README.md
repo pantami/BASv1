@@ -4,6 +4,8 @@
 
 
 Developement Languages: C/C++ , Python , Node.js , Three.js GUI
+DB: MariaDB
+
 
 
 
